@@ -1,0 +1,50 @@
+.backround {
+    background-color:#1b212b;
+}
+
+.font {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+.text-color {
+    color:#1b212b
+}
+
+.text-color-b {
+background: linear-gradient(to bottom,
+    #1b212b 1%, 
+    rgb(83, 27, 129) 80%
+  );
+}
+
+.text-size{ 
+    font-size: 70px;
+}
+
+.thicker {
+    font-weight: bolder;
+  }
+
+.text-centered {
+    text-align:center;
+}
+
+.text-shadow {
+    text-shadow: 2px 1px 9px #97b6cf;
+}
+
+.table-text{
+    color: #1b212b
+}
+.table-header-text-size{ 
+    font-size: 30px;
+}
+
+.table-text-shadow {
+    text-shadow: 1px 1px 15px azure;
+}
+
+.data-text{
+    color: azure;
+    font-size: 20px;
+}
