@@ -10,8 +10,8 @@
     color:#1b212b
 }
 
-.text-color-b {
-background: linear-gradient(to bottom,
+.header-color-b {
+background: linear-gradient(to top,
     #1b212b 1%, 
     rgb(83, 27, 129) 80%
   );
@@ -41,10 +41,14 @@ background: linear-gradient(to bottom,
 }
 
 .table-text-shadow {
-    text-shadow: 1px 1px 15px azure;
+    text-shadow: 1px 1px 15px rgb(255, 255, 255);
 }
 
-.data-text{
+.data-text {
     color: azure;
-    font-size: 20px;
+    font-size: 18px;
+}
+
+.button-color {
+    color: #118aec
 }
